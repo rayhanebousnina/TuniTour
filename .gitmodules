@@ -1,0 +1,6 @@
+[submodule "TuniTour_Frontend"]
+	path = TuniTour_Frontend
+	url = https://github.com/rayhanebousnina/TuniTour_Frontend.git
+[submodule "TuniTour_Backend"]
+	path = TuniTour_Backend
+	url = https://github.com/rayhanebousnina/TuniTour_Backend.git
